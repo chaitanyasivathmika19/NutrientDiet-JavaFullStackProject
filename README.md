@@ -40,4 +40,4 @@ NutrientDiet/ → src/main/java (controllers, services, repositories, models), s
 - Enable **real-time chat** between users and dietitians.
 
 ## 👩‍💻 Author
-- **Chaitanya Sivathmika**  
+- **Chaitanya Sivathmika Yalamandala**  
